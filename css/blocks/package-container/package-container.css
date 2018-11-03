@@ -1,0 +1,7 @@
+.package-container {
+  display: flex;
+  padding-top: 125px;
+  padding-left: 250px;
+  padding-right: 250px;
+  justify-content: space-between;
+}

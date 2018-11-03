@@ -1,0 +1,9 @@
+@import "./__duration/__duration.css";
+.price {
+  font-size: 33px;
+}
+.price__duration {
+  color: #d1d1d1;
+  font-size: 15px;
+  text-transform: capitalize;
+}

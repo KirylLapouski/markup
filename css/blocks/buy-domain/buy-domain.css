@@ -1,0 +1,9 @@
+@import "./__title/__title.css";
+.buy-domain {
+  padding-top: 78px;
+  text-align: center;
+  font-weight: 100;
+  font-size: 22px;
+  color:  rgba(162, 162, 162, 255);
+  min-height: 645px;
+}

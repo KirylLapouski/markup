@@ -1,0 +1,14 @@
+.package__properties {
+  height: 343px;
+  margin: 0 auto;
+  width: 250px;
+  border-bottom: 2px solid #dfdfdf;
+  color: #cdcdcd;
+  text-transform: capitalize;
+  font-size: 19px;
+  margin-bottom: 35px;
+}
+
+.package__properties tr td:last-child{
+ text-align: right;
+}
