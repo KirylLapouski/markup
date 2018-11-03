@@ -1,12 +1,16 @@
 .package__properties {
-  height: 343px;
+  height: 285px;
   margin: 0 auto;
-  width: 250px;
-  border-bottom: 2px solid #dfdfdf;
+  width: 201px;
+
+  border-bottom: 1px solid #dfdfdf;
+  border-top: 1px solid #dfdfdf;
+
   color: #cdcdcd;
   text-transform: capitalize;
-  font-size: 19px;
-  margin-bottom: 35px;
+  font-size: 15px;
+  padding-top:20px;
+  padding-bottom: 17px;
 }
 
 .package__properties tr td:last-child{

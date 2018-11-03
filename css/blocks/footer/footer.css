@@ -1,5 +1,10 @@
 @import "./__body/__body.css";
+@import "./__nav/__nav.css";
+@import "./__logo/__logo.css";
+@import "./__list/__list.css";
+@import "./__button/__button.css";
 .footer {
     height: 300px;
     background-color: #2a2a2a;
+    color: #686868
 }

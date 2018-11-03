@@ -1,0 +1,16 @@
+.site-map {
+    width: 500px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border-left: 1px solid #393939;
+    border-right: 1px solid #393939;
+
+}
+/* todo */
+.site-map li{
+    list-style: none;
+
+    background: url("../../../img/arrow.png") no-repeat 0 4px;
+}

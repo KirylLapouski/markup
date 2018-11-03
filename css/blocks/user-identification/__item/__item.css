@@ -2,13 +2,13 @@
 @import "./_theme/_grey.css";
 
 .user-identification__item {
-  width: 52%;
+  width: 51%;
   display: flex;
   justify-content: flex-start;
   align-items: center;
   text-decoration: none;
   color:white;
-  font-size: 30px;
+  font-size: 22px;
   text-transform: uppercase;
 }
 .user-identification__item_green {
@@ -19,7 +19,16 @@
   top: 0px;
   z-index: -1;
   display: flex;
+  padding-right: 91px;
   justify-content: center;
+}
+
+.user-identification__item_grey {
+  background-color: #21424a;
+  width: 55%;
+  clip-path: polygon(0 0, 810px 0, 784px 100%, 0 100%);
+  justify-content: center;
+  padding-left: 65px;
 }
 
 

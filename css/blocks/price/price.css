@@ -1,7 +1,8 @@
 @import "./__duration/__duration.css";
 @import "./__button/__button.css";
 .price {
-  font-size: 33px;
+  font-size: 26px;
+  font-weight: bold;
 }
 .price__duration {
   color: #d1d1d1;

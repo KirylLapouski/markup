@@ -1,7 +1,11 @@
 @import "./__image/__image.css";
-
+@import "./__title/__title.css";
+@import "./__postion/__position.css";
 .contacts-item {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    height: 180px;
 }

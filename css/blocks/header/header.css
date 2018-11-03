@@ -6,7 +6,7 @@
 @import "./__body/__body.css";
 @import "./__description/__description.css";
 .header {
-    min-height: 1180px;
+    min-height: 942px;
     display: flex;
     flex-direction: column;
 }

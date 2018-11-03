@@ -1,3 +1,9 @@
+@import "./__input/__input.css";
+@import "./__prefix/__prefix.css";
+@import "./__domain/__domain.css";
 .domain-selector {
   width: 100%;
+  display: flex;
+  margin-top: 50px;
+  min-height: 48px;
 }

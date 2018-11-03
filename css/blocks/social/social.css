@@ -1,4 +1,8 @@
 .social{
+    width: 85%;
     list-style: none;
     display: flex;
+    padding: 0px;
+    justify-content: space-between;
+    color: #bfbfbf;
 }

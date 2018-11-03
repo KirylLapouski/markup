@@ -1,6 +1,6 @@
 @import "__item/__item.css";
 .user-identification {
-    min-height: 150px;
+    min-height: 123px;
     width: 100%;
     display: flex;
     justify-content: space-between;

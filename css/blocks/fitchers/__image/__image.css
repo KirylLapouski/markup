@@ -1,0 +1,11 @@
+@import "./_theme/_yellow.css";
+@import "./_theme/_red.css";
+@import "./_theme/_grey.css";
+@import "./_theme/_blue.css";
+.fitchers__image{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  font-size: 25px;
+}
+

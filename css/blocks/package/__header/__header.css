@@ -1,5 +1,6 @@
 .package__header {
-  height: 190px;
+  padding-top: 37px;
+  height: 142px;
   display: flex;
   flex-direction: column;
   align-items: center;

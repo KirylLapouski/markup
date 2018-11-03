@@ -1,9 +1,10 @@
 @import "./__title/__title.css";
+@import "./__description/__description.css";
 .buy-domain {
-  padding-top: 78px;
+  padding-top: 60px;
   text-align: center;
   font-weight: 100;
   font-size: 22px;
   color:  rgba(162, 162, 162, 255);
-  min-height: 645px;
+  min-height: 580px;
 }

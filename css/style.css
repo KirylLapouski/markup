@@ -22,9 +22,17 @@
 @import "./blocks/comments/comments.css";
 @import "./blocks/footer/footer.css";
 @import "./blocks/author-description/author-description.css";
-@import "./blocks/card-map/card-map.css";
+@import "./blocks/author-description/author-description.css";
+@import "./blocks/address/address.css";
+@import "./blocks/site-map/site-map.css";
 body{
     font-family: "Lato", "AdobeInvisFont", "MyriadPro-Regular", sans-serif;
+}
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
 }
 
 .visually-hidden {

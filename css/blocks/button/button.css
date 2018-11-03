@@ -3,4 +3,8 @@
     color: #ffffff;
     margin-left: 20px;
     border:none;
+    padding-bottom: 36px;
+}
+.button:hover {
+    border-bottom: 1px solid white;
 }
