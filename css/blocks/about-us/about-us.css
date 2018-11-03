@@ -1,0 +1,5 @@
+@import "./__description/__description.css";
+.about-us {
+    display: flex;
+    border-top: 1px dashed #dadada;
+}

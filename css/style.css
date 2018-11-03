@@ -14,6 +14,15 @@
 @import "./blocks/package-container/package-container.css";
 @import "./blocks/package/package.css";
 @import "./blocks/price/price.css";
+@import "./blocks/about-us/about-us.css";
+@import "./blocks/contacts-item/contacts-item.css";
+@import "./blocks/contacts/contacts.css";
+@import "./blocks/social/social.css";
+@import "./blocks/fitchers/fitchers.css";
+@import "./blocks/comments/comments.css";
+@import "./blocks/footer/footer.css";
+@import "./blocks/author-description/author-description.css";
+@import "./blocks/card-map/card-map.css";
 body{
     font-family: "Lato", "AdobeInvisFont", "MyriadPro-Regular", sans-serif;
 }

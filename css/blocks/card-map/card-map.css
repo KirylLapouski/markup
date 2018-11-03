@@ -1,0 +1,13 @@
+.card-map { 
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+/* todo */
+.card_map li{
+    list-style: none;
+
+    background: url("../../../img/arrow.png") no-repeat 0 4px; 
+}

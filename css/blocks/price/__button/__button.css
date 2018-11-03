@@ -1,0 +1,7 @@
+.price__button {
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    border-top: 3px solid #f9d423;
+    padding-top: 15px;
+    font-weight: bold;
+}
