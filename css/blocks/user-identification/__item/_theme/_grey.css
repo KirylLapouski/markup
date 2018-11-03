@@ -1,0 +1,6 @@
+.user-identification__item_grey {
+  background-color: #21424a;
+  width: 55%;
+  clip-path: polygon(0 0, 1010px 0, 975px 100%, 0 100%);
+  padding-left: 585px;
+}

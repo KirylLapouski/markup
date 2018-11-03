@@ -1,5 +1,12 @@
 @import "./__mask/__mask.css";
 @import "./__wrapper/__wrapper.css";
+@import "./__title/__title.css";
+@import "./__nav/__nav.css";
+@import "./__list/__list.css";
+@import "./__body/__body.css";
+@import "./__description/__description.css";
 .header {
-    min-height: 1064px;
+    min-height: 1180px;
+    display: flex;
+    flex-direction: column;
 }

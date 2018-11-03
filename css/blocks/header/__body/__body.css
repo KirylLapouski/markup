@@ -1,0 +1,10 @@
+.header__body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  position: relative;
+  top: -10px;
+}

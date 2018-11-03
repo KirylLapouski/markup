@@ -1,5 +1,8 @@
+@import "__item/__item.css";
 .user-identification {
-    min-height: 124px;
+    min-height: 150px;
     width: 100%;
     display: flex;
+    justify-content: space-between;
+    position: relative;
 }

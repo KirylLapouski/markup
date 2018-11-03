@@ -1,17 +1,14 @@
 @import "./blocks//button/button.css";
 @import "./blocks/container/container.css";
 @import "./blocks/header-nav/header-nav.css";
-/* header */
 @import "./blocks/header/header.css";
 
 @import "./blocks/main-container/main-container.css";
 @import "./blocks/nav-list/nav-list.css";
 @import "./blocks/user-identification/user-identification.css";
 
-@font-face { 
-    font-family: "Lato-Medium";
-    src: url("../fonts/Lato-Medium.ttf");
-}
+@import "./blocks/logo/logo.css";
+
 body{
-    font-family: "Lato-Medium", "AdobeInvisFont", "MyriadPro-Regular", serif;
+    font-family: "Lato", "AdobeInvisFont", "MyriadPro-Regular", sans-serif;
 }
